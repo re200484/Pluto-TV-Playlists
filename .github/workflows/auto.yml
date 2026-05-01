@@ -8,6 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Added permissions block here
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -31,3 +34,4 @@ jobs:
           git add .
           git commit -m "Auto update playlist" || echo "No changes"
           git push --force
+          
