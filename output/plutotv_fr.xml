@@ -2151,6 +2151,11 @@
         <desc>Kane est un lieutenant pour l’entreprise Ex-O qui prépare de nouvelles planètes à accueillir des Terriens. Un jour, il découvre que l’entreprise a le projet secret de propager un virus...</desc>
         <icon src="https://images.pluto.tv/series/610116c8f36aad0014ff8b0e/tile_1776246121273.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60c34592c911890007f29a73" start="20260502131554 +0000" stop="20260502151254 +0000">
+        <title>Transfert</title>
+        <desc>Ex-agent de la CIA, Tess Chandler est déterminée à comprendre ce qui est arrivé à son mari, Kelley, sérieusement blessé au cours d'une mission, désormais maintenu en vie grâce à un respirateur artificiel.</desc>
+        <icon src="https://images.pluto.tv/series/612dfadbdc29d20013b7993f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60c3472a51a2050008dad272" start="20260502085403 +0000" stop="20260502104032 +0000">
         <title>L'avocat</title>
         <desc>Tout juste reçu au barreau, Léo est d’ores et déjà un avocat destiné à un grand avenir. Les clients les plus prestigieux ne manquent pas de faire appel à son talent inné pour le droit des affaires</desc>
@@ -6797,6 +6802,11 @@ Pour résoudre ces cas, Norin doit inventer de nouvelles techniques opératoires
         <title>Save the Last Dance</title>
         <desc>Sara Johnson (Julia Stiles) suit son père à Chicago après la mort accidentelle de sa mère. Sara s'inscrit dans le collège du quartier et s'adonne à tous les genres de danse. Elle fait également la rencontre de Derek.</desc>
         <icon src="https://images.pluto.tv/series/601cfbd7e17f63001ae1a698/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60812fc8539963000707d1e1" start="20260502171231 +0000" stop="20260502185614 +0000">
+        <title>On sera deux !</title>
+        <desc>Au cours d'un été où de nombreux amis ont décidé de célébrer leur mariage, Ben et Alice, se mettent d'accord afin que l'un et l'autre soit le cavalier (ou cavalière) de l'autre. Petit à petit, leur relation amicale va se trouver bouleversé.</desc>
+        <icon src="https://images.pluto.tv/series/68711d254f8d4a99171ee703/tile_1752243548444.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="60afae68a7fc50000737186d" start="20260502124400 +0000" stop="20260502131100 +0000">
         <title>Les années fac: Une journée fripes</title>
@@ -21400,6 +21410,11 @@ Nobita et Doraemon trouvent le Passe-Partout qui permet à son détenteur d’en
     <programme channel="62f3ece7b09fd6000783bfb9" start="20260503013356 +0000" stop="20260503072504 +0000">
         <title>Un Gars Une Fille : Spécial Vacances</title>
         <desc>Collection Spéciale de Chouchou et Loulou en Vacances</desc>
+        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260503072504 +0000" stop="20260503075634 +0000">
+        <title>Un Gars Une Fille: La guadeloupe (1) / La guadeloupe (2) / La guadeloupe (3) / La guadeloupe (4)</title>
+        <desc>La guadeloupe (1) / La guadeloupe (2) / La guadeloupe (3) / La guadeloupe (4)</desc>
         <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64c9260ac0222700089ee62b" start="20260503010000 +0000" stop="20260503013000 +0000">
